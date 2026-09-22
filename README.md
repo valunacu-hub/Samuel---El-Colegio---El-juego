@@ -1,15 +1,14 @@
 # Samuel---El-Colegio---El-juego
 Samuel - El Colegio es un juego que trata de la vida del propietario del juego, puede ser dramática, sarcástica o incluso peleas y discusiones
 
-# Arreglo en los emojis 🫹 y 🫺 con los modificadores de piel
-Ahora no solo se puede ver tonos de piel, si no que si en un server te agregas como un nuevo compañero/estudiante puedes elegir el tono de piel por ser jugador nuevo, si eliges un jugador existente, el tono del jugador de la persona en la vida real obtendrás ese tono de piel forzado
-Nuevos emojis con los modificadores de piel con 🫹 y 🫺
-🫹🏻🫹🏼🫹🏽🫹🏾🫹🏿🫺🏻🫺🏼🫺🏽🫺🏾🫺🏿
+# Nueva pistola
+La nueva pistola cuesta 10€ por qué es capaz de cambiar lo que se suponía que iba a pasar, puedes matar a todos los personajes
 
-| Gesto del pulgar a la izquierda | Tonos |
-|------------------|--------------|
-| 🫹 | 🫹🏻🫹🏼🫹🏽🫹🏾🫹🏿
-
-| Gestos del pulgar a la derecha | Tonos |
-|------------------|-------------|
-| 🫺 | 🫺🏻🫺🏼🫺🏽🫺🏾🫺🏿 |
+| Objetos | Precio |
+|---------|--------|
+| Volar 🪽 | 5,00 |
+| Cuchillo 🔪 | 10,00€ |
+| Pistola 🔫 | 25,00€ |
+| Bomba 💣 | 40,45€ |
+| Metiorito 🪋 | 64,99€ |
+| Hackear pantallas 👨🏼‍💻 | 120,00€ |
