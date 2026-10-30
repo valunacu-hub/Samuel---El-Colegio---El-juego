@@ -1,3 +1,6 @@
+# v2026.10.30
+Se agregaron los números orientales, persa/urdu y números devanagari
+
 # v2026.10.24
 Se actualizó Google Sans a la versión v14.000 con soporte árabe
 
