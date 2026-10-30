@@ -1,3 +1,6 @@
+# v2026.10.30.1
+Google ya soporta árabe en Google Fonts y ya existen sus versiones tabulares
+
 # v2026.10.30
 Se agregaron los números orientales, persa/urdu y números devanagari
 
