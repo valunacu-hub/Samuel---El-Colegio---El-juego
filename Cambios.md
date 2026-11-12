@@ -1,3 +1,5 @@
+# v2026.10.30.1b
+Adivinad los nuevos idiomas
 # v2026.10.30.1
 Google ya soporta árabe en Google Fonts y ya existen sus versiones tabulares
 
